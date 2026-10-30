@@ -8,8 +8,8 @@ Lets you control the camera zoom distance in Elden Ring using your scroll wheel
 
 - [Elden Ring Mod Loader](https://www.nexusmods.com/eldenring/mods/117) by techiew
 - or [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases) by katalash
-- Elden Ring version **1.16.1**
-- Windows 11
+- Elden Ring version **1.17.2**
+- Windows 11/Linux
 - Mouse (no controller support)
 
 ---
